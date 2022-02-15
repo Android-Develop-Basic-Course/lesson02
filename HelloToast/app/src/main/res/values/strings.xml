@@ -5,4 +5,5 @@
     <string name="count_initial_value">0</string>
     <string name="toast_message">Hello Toast!</string>
     <string name="text_horizontal">Horizontal</string>
+    <string name="text_horizontal_tablet">Horizontal Tablet</string>
 </resources>
